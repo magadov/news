@@ -8,15 +8,14 @@
     /* text-align: center;*/
     /*position: absolute;*/
     /*line-height: 5em;*/
-    background-image: url('sportssss.jpg');
     padding: 20px;
 
     /*box-s0hadow: black;*/
 }
-.sportNews {
+.sportsNews {
     line-height: 5em;
 }
-.politNews {
+.politsNews {
     line-height: 5em;
 }
 .incidentsNews {
@@ -27,13 +26,6 @@
 }
 .bi {
     font-size: 50px;
-}
-
-.content{
-    width: 1000px;
-    margin: auto;
-    display: flex;
-
 }
 
 .img {
@@ -64,7 +56,7 @@
 
 }
 
-.mainImg {
+.mainNews {
     width: 500px;
 
 }
@@ -82,4 +74,8 @@
 
 .sideBar {
     width: 200px;
+}
+
+a {
+    text-decoration: none;
 }
